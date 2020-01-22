@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hi WORLD!
+
+Jd here, I like swift and java
